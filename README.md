@@ -4,3 +4,4 @@ My first VueJS App. A simple web app to add or remove the skills of a user. Done
 
 ## Screenshot
 <img src = "https://github.com/jamesjose03/vue-first-app/blob/master/snapshots/snapshot.JPG">
+<img src = "https://github.com/jamesjose03/vue-first-app/blob/master/snapshots/snapshot2.JPG">
